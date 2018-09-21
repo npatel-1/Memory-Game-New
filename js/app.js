@@ -47,12 +47,10 @@ document.addEventListener('DOMContentLoaded', function(){
       element.innerHTML = "Times Up!";
       setTimeout("location.reload(true);", timeoutPeriod);
     }
-
   }
 
   var Score = 0;
   document.getElementById("Score").innerHTML = Score;
-
 
   for (var i = 0; i < shuffledArray.length; i++) {
     const card = document.createElement("div");

@@ -13,7 +13,7 @@ JavaScript
 2. click on clone or download
 3. then click on download zip
 
-### You can view the page [here] (https://github.com/npatel-1/Memory-Game-New/tree/dev)
+### You can view the page [here](https://github.com/npatel-1/Memory-Game-New/tree/dev)
 
 ### Challenges
 * I struggled hidding the numbers and making them appear when clicked on. I then spoke to a friend and told me to change the colour of the number to the current background of the card, which is black.
@@ -21,5 +21,3 @@ JavaScript
 
 ### Learning points
 What I really need to do is start from the smallest point and build myself up.
-
-
