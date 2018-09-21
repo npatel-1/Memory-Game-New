@@ -40,7 +40,6 @@
 
 .card:hover {
   transform: scale(1.1);
-  /* background: rgba(255, 0, 0, 1); */
   transition: all .5s ease;
   animation: bounce .5s;
 }
